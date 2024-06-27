@@ -20,7 +20,7 @@ This is a simple calculator application built with React and styled using Tailwi
 
 ## Demo
 
-You can check out the live demo of the calculator [here](#).
+You can check out the live demo of the calculator [here](https://narayanan-27.github.io/Simple_calc/).
 
 ## Installation
 
